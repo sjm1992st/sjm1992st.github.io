@@ -13,5 +13,5 @@
 ![image](https://github.com/sjm1992st/sjm1992st.github.io/blob/master/picture/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%9B%BD%E8%B5%9B.jpg "研究生国赛")<br>
 
 #### Paper
-  - Predicting spikes with artificial neural network(http://scis.scichina.com/en/2018/060428.pdf)
-  - Automatic fitting of neuron parameters(https://ieeexplore.ieee.org/document/8386578/)
+  - [Predicting spikes with artificial neural network](http://scis.scichina.com/en/2018/060428.pdf)
+  - [Automatic fitting of neuron parameters](https://ieeexplore.ieee.org/document/8386578/)
