@@ -13,3 +13,6 @@
 #### Paper
   - [Predicting spikes with artificial neural network](http://scis.scichina.com/en/2018/060428.pdf)
   - [Automatic fitting of neuron parameters](https://ieeexplore.ieee.org/document/8386578/)
+#### Open source community contribution
+[万能答题助手](https://github.com/smileboywtu/MillionHeroAssistant)
+[微信《跳一跳》Python 辅助](https://github.com/wangshub/wechat_jump_game)
