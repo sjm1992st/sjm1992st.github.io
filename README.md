@@ -5,10 +5,10 @@
 
 * **2014--Mathematical Modeling Invitational of Central China--third-class prize**<br>
 
-### 2015-2017 CUC
+### 2015-2018 CUC
 * **2015--coursera's certificate--Machine learning**<br>
-
 * **2016--National Graduate mathematical modeling competition--third-class prize**<br>
+* **2018--Communication University of China "Three Good Graduate Students"**<br>
 
 #### Paper
   - SCI: 
