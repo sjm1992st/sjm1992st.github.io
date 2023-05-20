@@ -11,8 +11,12 @@
 * **2016--National Graduate mathematical modeling competition--third-class prize**<br>
 
 #### Paper
-  - [Predicting spikes with artificial neural network](http://scis.scichina.com/en/2018/060428.pdf)
-  - [Automatic fitting of neuron parameters](https://ieeexplore.ieee.org/document/8386578/)
+  - SCI: 
+    - Cao L, Shen J, Wang L, et al. Predicting spikes with artificial neural network[J]. Science China Information Sciences
+    - Wang T, Wang Y, Shen J, et al. Predicting Spike Features of Hodgkin-Huxley-Type Neurons With Simple Artificial Neural Network[J]. Frontiers in computational neuroscience
+  - EI:
+    - Shen J, Wang Y, Cao L. Automatic fitting of neuron parameters[C] 
+    [Automatic fitting of neuron parameters]
 #### Open source community contribution
 [万能答题助手](https://github.com/smileboywtu/MillionHeroAssistant)<br>
 [微信《跳一跳》Python 辅助](https://github.com/wangshub/wechat_jump_game)
