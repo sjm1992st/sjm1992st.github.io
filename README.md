@@ -16,7 +16,6 @@
     - Wang T, Wang Y, Shen J, et al. Predicting Spike Features of Hodgkin-Huxley-Type Neurons With Simple Artificial Neural Network[J]. Frontiers in computational neuroscience
   - EI:
     - Shen J, Wang Y, Cao L. Automatic fitting of neuron parameters[C] 
-    [Automatic fitting of neuron parameters]
 #### Open source community contribution
 [万能答题助手](https://github.com/smileboywtu/MillionHeroAssistant)<br>
 [微信《跳一跳》Python 辅助](https://github.com/wangshub/wechat_jump_game)
